@@ -24,7 +24,8 @@ repository               : "sulemankhan-lab/sulemankhan.github.io"
 author:
   # Biographic information
   avatar           : "my_profile.jpeg"
-  name             : "Your Sidebar Name"
+  circle_avatar    : true
+  name             : "Suleman Khan"
   pronouns         : # example: "he/him"  
   bio              : "Research Assistant at University of Guelph"
   location         : "Toronto, Ontario, Canada"
@@ -41,7 +42,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/suleman-khan-a0b77a1b6"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
