@@ -2,10 +2,9 @@ name: Scrape Talk Locations
 
 on:
   push:
-    paths:
-      - 'talks/**'
-      - '_talks/**'
-      - 'talkmap.ipynb'
+    branches:
+      - master  # This ensures it runs on every push to master
+  workflow_dispatch: # This adds the "Run workflow" button manually
 
 jobs:
   build:
