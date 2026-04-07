@@ -23,7 +23,7 @@ repository               : "sulemankhan-lab/sulemankhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile.jpeg"
+  avatar           : "my_profile.png"
   circle_avatar    : true
   name             : "Suleman Khan"
   pronouns         : # example: "he/him"  
